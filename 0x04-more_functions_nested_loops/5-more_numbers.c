@@ -26,6 +26,3 @@ void more_numbers(void)
 		i++;
 	}
 }
-© 2022 GitHub, Inc.
-Terms
-Priv
